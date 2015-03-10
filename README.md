@@ -1,11 +1,11 @@
-Header.vim is a vim plugin to write automatically a headers in source file.
+Headers.vim is a vim plugin to write automatically a headers in source file.
 
 # Installation
 
 ## Install with Vundel:
 
    ```vim
-   Bundle 'fardke/header.vim'
+   Bundle 'fardke/headers.vim'
    ```
 
 ## Install manually:
